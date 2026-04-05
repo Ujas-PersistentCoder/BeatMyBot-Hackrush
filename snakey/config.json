@@ -1,0 +1,7 @@
+{
+  "command": ["python", "-u", "bot.py"],
+  "name": "Sssnakey",
+  "docker_image": "snakey-image",
+  "docker_cpus": 0.5,
+  "docker_memory": "256m"
+}
